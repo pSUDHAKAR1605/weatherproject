@@ -1,4 +1,4 @@
-const apiKey = "API_KEY"; // Replace with your own API key
+const apiKey = "API_KEY"; //need to generate our own API key
 const getWeatherButton = document.getElementById("getWeather");
 const cityInput = document.getElementById("cityInput");
 const weatherDisplay = document.getElementById("weatherDisplay");
